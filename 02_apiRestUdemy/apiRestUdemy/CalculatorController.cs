@@ -1,6 +1,6 @@
 namespace apiRestUdemy;
 
-public class WeatherForecast
+public class CalculatorController
 {
     public DateTime Date { get; set; }
 
